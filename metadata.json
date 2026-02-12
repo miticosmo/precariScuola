@@ -1,0 +1,8 @@
+{
+  "name": "Precari Scuola",
+  "description": "L'Ecosistema Digitale per il Docente Precario Italiano. Gestione graduatorie, interpelli e burocrazia in un'unica dashboard intelligente.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
